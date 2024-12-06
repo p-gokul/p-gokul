@@ -1,0 +1,30 @@
+/* Styling for the rectangular box */
+.box {
+  display: flex;
+  align-items: center;
+  background-color: green;
+  padding: 10px; /* Add padding to all sides */
+  border-radius: 5px; /* Optional rounded corners */
+  width: fit-content; /* Box will adjust to the content width */
+  margin-bottom: 10px; /* Add some spacing between boxes */
+}
+
+/* Styling for the link inside the box */
+.box-content {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* Space between image and text */
+  text-decoration: none; /* Remove underline from the link */
+  color: white; /* Text color */
+}
+
+/* Styling for the image inside the box */
+.box-content img {
+  vertical-align: middle; /* Ensure image aligns vertically with text */
+}
+
+/* Optional: Add hover effect for better user experience */
+.box:hover {
+  background-color: #228b22; /* Darker green on hover */
+  cursor: pointer;
+}
