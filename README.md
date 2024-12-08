@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul Pant</h1>
-<h3 align="center">Passionate backend developer from Nepal. Working on Devops, Cloud and Web3.</h3>
+<h3 align="center">A Passionate backend developer from Nepal. Working on Devops, Cloud and Web3.</h3>
 
 - 👨‍💻 Portfolio :: [https://p-gokul.site](https://p-gokul.site)
 
