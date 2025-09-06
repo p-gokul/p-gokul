@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul Pant.</h1>
-<h3 align="center">Working on DevOps, Cloud and Web3.</h3>
+<h3 align="center">Working on AI, DevOps and Cloud.</h3>
 
 - 👨‍💻 Portfolio :: [https://p-gokul.dev](https://p-gokul.dev)
 
